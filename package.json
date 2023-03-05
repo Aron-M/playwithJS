@@ -1,0 +1,22 @@
+{
+  "name": "playwithjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aron-M/playwithJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aron-M/playwithJS/issues"
+  },
+  "homepage": "https://github.com/Aron-M/playwithJS#readme",
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
